@@ -1,0 +1,6 @@
+{
+
+    "PORT": 3000,
+   "databaseName" : "datacollection",
+    "mongo_db_connection": "mongodb://localhost:27017/test"
+  }
